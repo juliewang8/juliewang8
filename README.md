@@ -1,6 +1,6 @@
-software engineer @datadog
-class of '23 @northeastern
-currently @boston
+software engineer @datadog \n
+class of '23 @northeastern \n
+currently @boston \n
 likes: spotify playlists, boursin cheese, websites with good color schemes
 
 <!---
