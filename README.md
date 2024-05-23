@@ -1,5 +1,5 @@
 software engineer @datadog  
-class of '23 @northeastern  
+'23 @northeastern  
 currently @boston  
 likes: spotify playlists, boursin cheese, a good color scheme
 
